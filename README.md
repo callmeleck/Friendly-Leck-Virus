@@ -1,6 +1,6 @@
 # Friendly-Leck-Virus
 Just a Friendly silly virus that cant do anything
-(if you wanna close it just use taskmanager :3)
+(if you wanna close it just use taskmanager)
 Base is from Hydra Virus "https://github.com/giabao4498/Hydra-Virus"
 
 First Message
